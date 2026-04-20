@@ -1,0 +1,8 @@
+# Saladused — ära KUNAGI commiti
+config.psd1
+
+# Logifailid
+*.log
+
+# PowerShelli ajutised
+*.tmp
