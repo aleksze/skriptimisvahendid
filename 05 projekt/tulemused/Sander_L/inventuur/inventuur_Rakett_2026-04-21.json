@@ -1,0 +1,57 @@
+{
+  "ajamäär": "2026-04-21T10:28:36Z",
+  "host": "Rakett",
+  "kasutaja": "sander",
+  "python": "3.12.3",
+  "os": {
+    "süsteem": "Linux",
+    "versioon": "#20~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Mar 19 01:28:37 UTC 2",
+    "release": "6.17.0-20-generic",
+    "arhitektuur": "64bit",
+    "masina_tüüp": "x86_64"
+  },
+  "cpu": {
+    "mudel": "x86_64",
+    "südamikud_füüsilised": 8,
+    "südamikud_loogilised": 16,
+    "kasutus_protsent": 0.2
+  },
+  "mälu": {
+    "kokku_gb": 13.43,
+    "kasutuses_gb": 2.19,
+    "vaba_gb": 10.9,
+    "kasutus_protsent": 18.8
+  },
+  "kettad": [
+    {
+      "haakepunkt": "/",
+      "seade": "/dev/nvme0n1p2",
+      "failisüsteem": "ext4",
+      "kokku_gb": 937.33,
+      "vaba_gb": 757.34,
+      "kasutatud_gb": 132.31,
+      "kasutus_protsent": 14.9
+    },
+    {
+      "haakepunkt": "/boot/efi",
+      "seade": "/dev/nvme0n1p1",
+      "failisüsteem": "vfat",
+      "kokku_gb": 0.5,
+      "vaba_gb": 0.49,
+      "kasutatud_gb": 0.01,
+      "kasutus_protsent": 2.5
+    }
+  ],
+  "võrk": [
+    {
+      "nimi": "lo",
+      "ipv4": null,
+      "ühendatud": true
+    },
+    {
+      "nimi": "wlp2s0",
+      "ipv4": "192.168.1.xxx",
+      "ühendatud": true
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "ajamäär": "2026-04-26T13:54:01Z",
+  "host": "PC1",
+  "kasutaja": "Fernandez",
+  "python": "3.11.9",
+  "os": {
+    "süsteem": "Windows",
+    "versioon": "10.0.26200",
+    "release": "10",
+    "arhitektuur": "64bit",
+    "masina_tüüp": "AMD64"
+  },
+  "cpu": {
+    "mudel": "Intel64 Family 6 Model 151 Stepping 2, GenuineIntel",
+    "südamikud_füüsilised": 16,
+    "südamikud_loogilised": 24,
+    "kasutus_protsent": 2.9
+  },
+  "mälu": {
+    "kokku_gb": 31.81,
+    "kasutuses_gb": 14.51,
+    "vaba_gb": 17.3,
+    "kasutus_protsent": 45.6
+  },
+  "kettad": [
+    {
+      "haakepunkt": "C:\\",
+      "seade": "C:\\",
+      "failisüsteem": "NTFS",
+      "kokku_gb": 464.87,
+      "vaba_gb": 297.01,
+      "kasutatud_gb": 167.86,
+      "kasutus_protsent": 36.1
+    },
+    {
+      "haakepunkt": "D:\\",
+      "seade": "D:\\",
+      "failisüsteem": "NTFS",
+      "kokku_gb": 3726.01,
+      "vaba_gb": 3709.1,
+      "kasutatud_gb": 16.91,
+      "kasutus_protsent": 0.5
+    },
+    {
+      "haakepunkt": "F:\\",
+      "seade": "F:\\",
+      "failisüsteem": "NTFS",
+      "kokku_gb": 1863.01,
+      "vaba_gb": 212.04,
+      "kasutatud_gb": 1650.97,
+      "kasutus_protsent": 88.6
+    }
+  ],
+  "võrk": [
+    {
+      "nimi": "Ethernet",
+      "ipv4": "192.168.1.199",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Bluetooth Network Connection",
+      "ipv4": "169.254.13.95",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Loopback Pseudo-Interface 1",
+      "ipv4": null,
+      "ühendatud": true
+    }
+  ]
+}

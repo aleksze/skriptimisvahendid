@@ -1,0 +1,83 @@
+{
+  "ajamäär": "2026-05-03T17:11:09Z",
+  "host": "x13",
+  "kasutaja": "janan",
+  "python": "3.13.13",
+  "os": {
+    "süsteem": "Windows",
+    "versioon": "10.0.26200",
+    "release": "11",
+    "arhitektuur": "64bit",
+    "masina_tüüp": "AMD64"
+  },
+  "cpu": {
+    "mudel": "AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD",
+    "südamikud_füüsilised": 6,
+    "südamikud_loogilised": 12,
+    "kasutus_protsent": 3.8
+  },
+  "mälu": {
+    "kokku_gb": 15.23,
+    "kasutuses_gb": 10.71,
+    "vaba_gb": 4.52,
+    "kasutus_protsent": 70.3
+  },
+  "kettad": [
+    {
+      "haakepunkt": "C:\\",
+      "seade": "C:\\",
+      "failisüsteem": "NTFS",
+      "kokku_gb": 237.35,
+      "kasutatud_gb": 134.16,
+      "vaba_gb": 103.19,
+      "kasutus_protsent": 56.5
+    }
+  ],
+  "võrk": [
+    {
+      "nimi": "Ethernet 2",
+      "ipv4": "169.254.15.50",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Ethernet 4",
+      "ipv4": "192.168.56.1",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Kohalik võrguühendus* 1",
+      "ipv4": "169.254.207.155",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Kohalik võrguühendus* 2",
+      "ipv4": "169.254.187.0",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Mobiilside",
+      "ipv4": "169.254.229.92",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Wi-Fi",
+      "ipv4": "172.20.1.36",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Bluetooth-võrguühendus",
+      "ipv4": "169.254.22.242",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Tailscale",
+      "ipv4": "169.254.83.107",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Loopback Pseudo-Interface 1",
+      "ipv4": null,
+      "ühendatud": true
+    }
+  ]
+}

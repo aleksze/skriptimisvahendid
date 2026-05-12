@@ -21,3 +21,4 @@
 - [Aivar T](https://github.com/Kampari-43/minu-projekt)
 - [Lauri H](https://github.com/laurihallimae/skriptimisvahendid)
 - [Rainer V](https://github.com/rainerv-kit24/skriptid)
+- [Kaspar L](https://github.com/lindmak/skriptimisvahendid)

@@ -1,0 +1,61 @@
+2026-04-21 11:31:35 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: 51ba2722-10ca-4926-ac70-f2cbdacbeb84.vhdx (24.8 GB)
+C:\Users\Lenovo\Downloads\SOFT\Backup 2024-12-12 113535\51ba2722-10ca-4926-ac70-f2cbdacbeb84.vhdx
+2026-04-21 11:31:36 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: WIN10-taristu.vdi (23.0 GB)
+C:\Users\Lenovo\VirtualBox VMs\WIN10-taristu\WIN10-taristu.vdi
+2026-04-21 11:31:38 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: Debian11-disk001.vdi (10.2 GB)
+C:\Users\Lenovo\VirtualBox VMs\Debian11\Debian11-disk001.vdi
+2026-04-21 11:31:38 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: Ubuntu - taristu.vdi (9.3 GB)
+C:\Users\Lenovo\VirtualBox VMs\Ubuntu - taristu\Ubuntu - taristu.vdi
+2026-04-21 11:31:39 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO (6.5 GB)
+C:\Users\Lenovo\OneDrive - Tallinn Polytechnic School\SOFT\SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO
+2026-04-21 11:31:39 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO (6.5 GB)
+C:\Users\Lenovo\Downloads\SOFT\SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO
+2026-04-21 11:31:39 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: Deb12NoGui-disk001.vdi (6.4 GB)
+C:\Users\Lenovo\VirtualBox VMs\20250415_Rasbian_GUI\Deb12NoGui-disk001.vdi
+2026-04-21 11:31:40 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: export-i-51630a6d26d68bc7t-disk-1.vdi (6.0 GB)
+C:\Users\Lenovo\VirtualBox VMs\Centreon\export-i-51630a6d26d68bc7t-disk-1.vdi
+2026-04-21 11:31:40 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: ubuntu-24.04.3-desktop-amd64.iso (5.9 GB)
+C:\Users\Lenovo\Downloads\SOFT\ubuntu-24.04.3-desktop-amd64.iso
+2026-04-21 11:31:41 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: SW_DVD9_Win_Server_STD_CORE_2022_2108.36_64Bit_English_DC_STD_MLF_X23-80100.ISO (5.6 GB)
+C:\Users\Lenovo\OneDrive - Tallinn Polytechnic School\SOFT\SW_DVD9_Win_Server_STD_CORE_2022_2108.36_64Bit_English_DC_STD_MLF_X23-80100.ISO
+2026-04-21 11:34:20 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: 51ba2722-10ca-4926-ac70-f2cbdacbeb84.vhdx (24.8 GB)
+C:\Users\Lenovo\Downloads\SOFT\Backup 2024-12-12 113535\51ba2722-10ca-4926-ac70-f2cbdacbeb84.vhdx
+2026-04-21 11:34:20 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: WIN10-taristu.vdi (23.0 GB)
+C:\Users\Lenovo\VirtualBox VMs\WIN10-taristu\WIN10-taristu.vdi
+2026-04-21 11:34:21 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: Debian11-disk001.vdi (10.2 GB)
+C:\Users\Lenovo\VirtualBox VMs\Debian11\Debian11-disk001.vdi
+2026-04-21 11:34:21 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: Ubuntu - taristu.vdi (9.3 GB)
+C:\Users\Lenovo\VirtualBox VMs\Ubuntu - taristu\Ubuntu - taristu.vdi
+2026-04-21 11:34:22 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO (6.5 GB)
+C:\Users\Lenovo\OneDrive - Tallinn Polytechnic School\SOFT\SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO
+2026-04-21 11:34:22 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO (6.5 GB)
+C:\Users\Lenovo\Downloads\SOFT\SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO
+2026-04-21 11:34:22 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: Deb12NoGui-disk001.vdi (6.4 GB)
+C:\Users\Lenovo\VirtualBox VMs\20250415_Rasbian_GUI\Deb12NoGui-disk001.vdi
+2026-04-21 11:34:23 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: export-i-51630a6d26d68bc7t-disk-1.vdi (6.0 GB)
+C:\Users\Lenovo\VirtualBox VMs\Centreon\export-i-51630a6d26d68bc7t-disk-1.vdi
+2026-04-21 11:34:23 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: ubuntu-24.04.3-desktop-amd64.iso (5.9 GB)
+C:\Users\Lenovo\Downloads\SOFT\ubuntu-24.04.3-desktop-amd64.iso
+2026-04-21 11:34:24 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: SW_DVD9_Win_Server_STD_CORE_2022_2108.36_64Bit_English_DC_STD_MLF_X23-80100.ISO (5.6 GB)
+C:\Users\Lenovo\OneDrive - Tallinn Polytechnic School\SOFT\SW_DVD9_Win_Server_STD_CORE_2022_2108.36_64Bit_English_DC_STD_MLF_X23-80100.ISO
+2026-04-21 11:34:51 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: 51ba2722-10ca-4926-ac70-f2cbdacbeb84.vhdx (24.8 GB)
+C:\Users\Lenovo\Downloads\SOFT\Backup 2024-12-12 113535\51ba2722-10ca-4926-ac70-f2cbdacbeb84.vhdx
+2026-04-21 11:34:51 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: WIN10-taristu.vdi (23.0 GB)
+C:\Users\Lenovo\VirtualBox VMs\WIN10-taristu\WIN10-taristu.vdi
+2026-04-21 11:34:52 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: Debian11-disk001.vdi (10.2 GB)
+C:\Users\Lenovo\VirtualBox VMs\Debian11\Debian11-disk001.vdi
+2026-04-21 11:34:52 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: Ubuntu - taristu.vdi (9.3 GB)
+C:\Users\Lenovo\VirtualBox VMs\Ubuntu - taristu\Ubuntu - taristu.vdi
+2026-04-21 11:34:53 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO (6.5 GB)
+C:\Users\Lenovo\OneDrive - Tallinn Polytechnic School\SOFT\SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO
+2026-04-21 11:34:53 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO (6.5 GB)
+C:\Users\Lenovo\Downloads\SOFT\SW_DVD9_Win_Pro_10_22H2.22_64BIT_Eng_Intl_Pro_Ent_EDU_N_MLF_X23-80694.ISO
+2026-04-21 11:34:54 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: Deb12NoGui-disk001.vdi (6.4 GB)
+C:\Users\Lenovo\VirtualBox VMs\20250415_Rasbian_GUI\Deb12NoGui-disk001.vdi
+2026-04-21 11:34:54 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: export-i-51630a6d26d68bc7t-disk-1.vdi (6.0 GB)
+C:\Users\Lenovo\VirtualBox VMs\Centreon\export-i-51630a6d26d68bc7t-disk-1.vdi
+2026-04-21 11:34:55 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: ubuntu-24.04.3-desktop-amd64.iso (5.9 GB)
+C:\Users\Lenovo\Downloads\SOFT\ubuntu-24.04.3-desktop-amd64.iso
+2026-04-21 11:34:55 [OK]   Critical | DESKTOP-05P8344 | VÄGA SUUR FAIL: SW_DVD9_Win_Server_STD_CORE_2022_2108.36_64Bit_English_DC_STD_MLF_X23-80100.ISO (5.6 GB)
+C:\Users\Lenovo\OneDrive - Tallinn Polytechnic School\SOFT\SW_DVD9_Win_Server_STD_CORE_2022_2108.36_64Bit_English_DC_STD_MLF_X23-80100.ISO
+2026-04-21 11:35:23 [OK]   Critical | ID-tarkvara monitor | Open-EID on väga vana (3.18.0.5475 → 25.10.23.8403)

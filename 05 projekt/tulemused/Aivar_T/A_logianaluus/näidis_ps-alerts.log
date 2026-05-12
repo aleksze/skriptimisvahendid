@@ -1,0 +1,10 @@
+2026-04-14 08:00:00	[OK]	Info	DESKTOP-42	Skript käivitus
+2026-04-14 14:22:05	[OK]	Warning	DESKTOP-42	Ketas 85% täis
+2026-04-14 23:15:22	[OK]	Critical	DC01	Teenus kinni jooksnud
+2026-04-15 02:33:11	[FAIL]	Critical	DC01	Teenus endiselt maas	Timeout
+2026-04-15 08:01:30	[OK]	Info	DESKTOP-42	Skript käivitus
+2026-04-15 14:55:02	[OK]	Warning	LAPTOP-07	Aku 15%
+2026-04-16 08:00:45	[OK]	Info	DESKTOP-42	Skript käivitus
+2026-04-16 09:15:10	[OK]	Warning	DC01	Ketas täitub kiiresti
+2026-04-16 15:30:00	[OK]	Critical	DC01	Ketas täis!
+2026-04-17 08:02:11	[OK]	Info	DESKTOP-42	Skript käivitus

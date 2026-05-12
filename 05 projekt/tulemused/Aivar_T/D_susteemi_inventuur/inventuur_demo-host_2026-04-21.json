@@ -1,0 +1,67 @@
+{
+  "ajamäär": "2026-04-21T10:21:45Z",
+  "host": "demo-host",
+  "kasutaja": "demo-user",
+  "python": "3.13.13",
+  "os": {
+    "süsteem": "Windows",
+    "versioon": "10.0",
+    "release": "11",
+    "arhitektuur": "64bit",
+    "masina_tüüp": "AMD64"
+  },
+  "cpu": {
+    "mudel": "Näidisprotsessor",
+    "südamikud_füüsilised": 12,
+    "südamikud_loogilised": 24,
+    "kasutus_protsent": 3.9
+  },
+  "mälu": {
+    "kokku_gb": 31.9,
+    "kasutuses_gb": 13.76,
+    "vaba_gb": 18.14,
+    "kasutus_protsent": 43.1
+  },
+  "kettad": [
+    {
+      "haakepunkt": "C:\\",
+      "seade": "C:\\",
+      "failisüsteem": "NTFS",
+      "kokku_gb": 512.0,
+      "vaba_gb": 210.5,
+      "kasutatud_gb": 301.5,
+      "kasutus_protsent": 58.9
+    },
+    {
+      "haakepunkt": "D:\\",
+      "seade": "D:\\",
+      "failisüsteem": "NTFS",
+      "kokku_gb": 256.0,
+      "vaba_gb": 120.0,
+      "kasutatud_gb": 136.0,
+      "kasutus_protsent": 53.1
+    }
+  ],
+  "võrk": [
+    {
+      "nimi": "Ethernet",
+      "ipv4": null,
+      "ühendatud": false
+    },
+    {
+      "nimi": "Wi-Fi",
+      "ipv4": "192.168.1.100",
+      "ühendatud": true
+    },
+    {
+      "nimi": "VPN",
+      "ipv4": "10.8.0.2",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Loopback",
+      "ipv4": null,
+      "ühendatud": true
+    }
+  ]
+}

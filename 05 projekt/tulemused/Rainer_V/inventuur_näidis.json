@@ -1,0 +1,81 @@
+{
+  "ajamäär": "2026-04-27T19:12:00Z",
+  "host": "LAPTOP-6SGFC0O6",
+  "kasutaja": "Rainer",
+  "python": "3.14.3",
+  "os": {
+    "süsteem": "Windows",
+    "versioon": "10.0.26200",
+    "release": "11",
+    "arhitektuur": "64bit"
+  },
+  "cpu": {
+    "mudel": "AMD64 Family 25 Model 117 Stepping 2, AuthenticAMD",
+    "südamikud_füüsilised": 8,
+    "südamikud_loogilised": 16,
+    "kasutus_protsent": 11.6
+  },
+  "mälu": {
+    "kokku_gb": 31.26,
+    "kasutuses_gb": 18.07,
+    "vaba_gb": 13.19,
+    "kasutus_protsent": 57.8
+  },
+  "kettad": [
+    {
+      "haakepunkt": "C:\\",
+      "seade": "C:\\",
+      "failisüsteem": "NTFS",
+      "kokku_gb": 924.52,
+      "vaba_gb": 397.1,
+      "kasutus_protsent": 57.0
+    }
+  ],
+  "võrk": [
+    {
+      "nimi": "Ethernet",
+      "ipv4": "169.254.44.207",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Ethernet 2",
+      "ipv4": "192.168.56.1",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Local Area Connection* 1",
+      "ipv4": "169.254.37.60",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Local Area Connection* 2",
+      "ipv4": "169.254.93.51",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Wi-Fi",
+      "ipv4": "172.16.49.164",
+      "ühendatud": true
+    },
+    {
+      "nimi": "vEthernet (WSL (Hyper-V firewall))",
+      "ipv4": "172.19.128.1",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Tailscale",
+      "ipv4": "100.64.0.9",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Local Area Connection",
+      "ipv4": "169.254.158.8",
+      "ühendatud": false
+    },
+    {
+      "nimi": "Loopback Pseudo-Interface 1",
+      "ipv4": null,
+      "ühendatud": true
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+2026-04-26 12:53:30	[OK]	Info	LAPTOP-6SGFC0O6	Test
+2026-04-26 12:54:22	[OK]	Critical	LAPTOP-6SGFC0O6	Väga suur fail: C:\Users\Rainer\Pictures\vana läppar.zip (9.0 GB)
+2026-04-26 12:54:22	[OK]	Critical	LAPTOP-6SGFC0O6	Väga suur fail: C:\Users\Rainer\VirtualBox VMs\Deb13GUI\Deb13GUI.vdi (5.7 GB)
+2026-04-26 12:54:23	[OK]	Warning	LAPTOP-6SGFC0O6	Suur fail: C:\Users\Rainer\VirtualBox VMs\Deb12.13NG\Deb12.13NG-disk001.vdi (4.3 GB)
+2026-04-26 12:54:23	[OK]	Warning	LAPTOP-6SGFC0O6	Suur fail: C:\Users\Rainer\VirtualBox VMs\Deb13\Deb13-disk001.vdi (4.2 GB)
+2026-04-26 12:54:24	[OK]	Warning	LAPTOP-6SGFC0O6	Suur fail: C:\Users\Rainer\Downloads\java converted.zip (1.6 GB)
+2026-04-26 20:15:33	[OK]	Warning	ID-tarkvara monitor	Open-EID uuendus saadaval: 25.10.23.8403 -> 26.4.20.8412

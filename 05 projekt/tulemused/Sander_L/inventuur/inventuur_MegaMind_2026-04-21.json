@@ -1,0 +1,58 @@
+{
+  "ajamäär": "2026-04-21T09:33:51Z",
+  "host": "MegaMind",
+  "kasutaja": "sander",
+  "python": "3.14.3",
+  "os": {
+    "süsteem": "Windows",
+    "versioon": "10.0.26200",
+    "release": "11",
+    "arhitektuur": "64bit",
+    "masina_tüüp": "AMD64"
+  },
+  "cpu": {
+    "mudel": "AMD64 Family 25 Model 97 Stepping 2, AuthenticAMD",
+    "südamikud_füüsilised": 6,
+    "südamikud_loogilised": 12,
+    "kasutus_protsent": 7.6
+  },
+  "mälu": {
+    "kokku_gb": 15.16,
+    "kasutuses_gb": 11.17,
+    "vaba_gb": 3.99,
+    "kasutus_protsent": 73.7
+  },
+  "kettad": [
+    {
+      "haakepunkt": "C:\\",
+      "seade": "C:\\",
+      "failisüsteem": "NTFS",
+      "kokku_gb": 930.58,
+      "vaba_gb": 204.05,
+      "kasutatud_gb": 726.53,
+      "kasutus_protsent": 78.1
+    }
+  ],
+  "võrk": [
+    {
+      "nimi": "Ethernet",
+      "ipv4": "192.168.xxx.xxx",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Ethernet 2",
+      "ipv4": "192.168.xxx.xxx",
+      "ühendatud": true
+    },
+    {
+      "nimi": "Bluetooth Network Connection",
+      "ipv4": "169.254.xxx.xxx",
+      "ühendatud": false
+    },
+    {
+      "nimi": "vEthernet (Default Switch)",
+      "ipv4": "172.25.xxx.xxx",
+      "ühendatud": true
+    },
+  ]
+}
